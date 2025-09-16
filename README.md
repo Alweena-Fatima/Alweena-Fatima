@@ -58,7 +58,7 @@
 ---
 ### 🧠 OWLs & NEWTs (Achievements)
 
-- 🧮 Solved **400+ problems on LeetCode**  
+- 🧮 Solved **500+ problems on LeetCode**  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AzureBandage/)
 
 ---
